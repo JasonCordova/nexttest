@@ -1,5 +1,5 @@
 import projectData from '../../../public/data.json';
-import Project from '@/comps/projects/project.js';
+import Project from '@/comps/project/index.js';
 import './index.css';
 
 export default function ProjectsPage() {

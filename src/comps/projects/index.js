@@ -1,6 +1,6 @@
 import projectData from '../../../public/data.json';
 import './index.css';
-import Project from '@/comps/projects/project.js';
+import Project from '@/comps/project/index.js';
 
 const ProjectPanel = () => {
 
