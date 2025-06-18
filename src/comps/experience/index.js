@@ -2,7 +2,7 @@ import './index.css';
 import Image from 'next/image'
 import { useState } from 'react';
 
-const ExperiencePanel = () => {
+const Experience = () => {
 
     const [tab, setTab] = useState("work");
 
@@ -106,4 +106,4 @@ const ExperiencePanel = () => {
 
 }
 
-export default ExperiencePanel;
+export default Experience;

@@ -2,7 +2,7 @@
 import LenisScroller from "@/comps/LenisScroller";
 import "./globals.css";
 import Lenis from "lenis";
-import Header from "@/comps/header";
+import Header from "@/comps/header/index.js";
 
 // export const metadata = {
 //   title: "Jason Cordova - Portfolio",
